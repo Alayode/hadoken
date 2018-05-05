@@ -1,0 +1,14 @@
+{
+  "name": "plated",
+  "version": "1.0.0",
+  "description": "a code challenge for working with plated",
+  "main": "test_answer.js",
+  "scripts": {
+    "test": "node test_answer.js"
+  },
+  "author": "Chris Kayode Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
